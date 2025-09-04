@@ -3,6 +3,7 @@
 A small React application built during **Fernando Herrera's React Course**.  
 This project allows users to search and display GIFs using the [Giphy API](https://developers.giphy.com/).
 
+You can try out the app at: https://giphy-app-test.netlify.app/
 ---
 
 ## Features
